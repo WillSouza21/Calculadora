@@ -1,2 +1,7 @@
 # Calculadora
-É uma calculadora para testes
+
+
+- [ ] Soma
+- [ ] Subtração
+- [ ] Multiplicação
+- [ ] Divisão
