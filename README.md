@@ -1,7 +1,7 @@
 # Calculadora
 
 
-- [ ] Soma
-- [ ] Subtração
-- [ ] Multiplicação
+- [X] Soma
+- [X] Subtração
+- [X] Multiplicação
 - [ ] Divisão
