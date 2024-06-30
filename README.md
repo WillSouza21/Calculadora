@@ -4,4 +4,4 @@
 - [X] Soma
 - [X] Subtração
 - [X] Multiplicação
-- [ ] Divisão
+- [X] Divisão
