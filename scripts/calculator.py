@@ -37,3 +37,6 @@ while True:
             print('Não é possível realizar divisão por zero.')
             continue
         print('Resposta dessa divisão é: ', number1 / number2) 
+        
+    else:
+        print('Esse valor é inválido, coloque um valor de acordo com as intruções.')
